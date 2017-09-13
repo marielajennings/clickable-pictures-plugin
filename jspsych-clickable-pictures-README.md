@@ -1,6 +1,6 @@
 ##jspsych-clickable-pictures plugin
 
-The clickable-pictures presents two images and a sentence(question) to the user. The user is asked to select an image as a response by clicking on it. The trial contains a preamble which explains what action the user needs to take to answer the question.
+The clickable-pictures plugin presents two images and a sentence(question) to the user. The user is asked to select an image as a response by clicking on it. The trial contains a preamble which explains what action the user needs to take to answer the question.
 
 ###Parameters
 
